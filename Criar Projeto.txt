@@ -1,0 +1,22 @@
+Criar Projeto: laravel new "NomeProjeto"
+Instalar dependencia Node Js: npm install
+Instalar Laravel Mix: npm install laravel-mix --save-dev
+Iniciar: npm run dev
+
+Criar arquivo style.css dentro de resources\css
+Criar pasta images dentro de resources\css
+
+SEMPRE RODAR npm run dev APOS REALIZAR ALTERAÇÕES EM SCRIPTS, ARQUIVOS DE ESTILO E IMAGENS
+
+
+//restaurar projeto do github
+renomear o arquivo .env.example para .env
+composer update
+php artisan key: generate
+
+php artisan make:model contato -m --> Criar arquivo na model
+
+php artisan migrate --> criar tabela DB
+php artisan make:migration add_nome_to_contato_table --> cria outro migration
+
+php artisan migrate:fresh --> refaz o banco

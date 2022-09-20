@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/style.css": "/css/style.css",
+    "/css/app.css": "/css/app.css",
+    "/images/im-curso-php.png": "/images/im-curso-php.png",
+    "/images/img-curso-laravel.png": "/images/img-curso-laravel.png",
+    "/images/img-curso-php.jpg": "/images/img-curso-php.jpg",
+    "/images/img-curso-php.png": "/images/img-curso-php.png",
+    "/images/img-curso-python.jpg": "/images/img-curso-python.jpg",
+    "/images/js/app.js": "/images/js/app.js",
+    "/images/js/bootstrap.js": "/images/js/bootstrap.js",
+    "/images/views/welcome.blade.php": "/images/views/welcome.blade.php"
+}
