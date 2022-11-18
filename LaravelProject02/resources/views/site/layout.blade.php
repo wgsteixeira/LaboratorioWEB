@@ -34,8 +34,8 @@
     <p>&nbsp;</p>
     <footer class="text-center text-white" style="background-color: slategrey" >
         <p>&nbsp;</p>
-        <p class="float-end"><a class="text-white" href="#">Back to top</a></p>
-        <p>&copy; <!--<?= date('Y'); ?>--> {{ date ('Y') }} Company, Inc. &middot; <a class="text-white" href="#">Privacy</a> &middot; <a class="text-white" href="#">Terms</a></p>
+        <p class="float-end"><a class="text-white" href="#">Voltar ao topo</a></p>
+        <p>&copy; <!--<?= date('Y'); ?>--> {{ date ('Y') }} Company, Inc. &middot; <a class="text-white" href="#">Privacy</a> &middot; <a class="text-white" href="#">Termos</a></p>
         <p>&nbsp;</p>
     </footer>
 </main>

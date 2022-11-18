@@ -15,8 +15,6 @@ composer update
 php artisan key: generate
 
 php artisan make:model contato -m --> Criar arquivo na model
-
 php artisan migrate --> criar tabela DB
 php artisan make:migration add_nome_to_contato_table --> cria outro migration
-
 php artisan migrate:fresh --> refaz o banco
